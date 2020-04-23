@@ -2,11 +2,11 @@
 /* SCRIPTS.JS */
 
 function changePic() {
-    document.getElementById("profilePic").src = "images/adrian.webp";
+    document.getElementById("profilePic").src = "images/code2.jpg";
   }
   
   function normalPic() {
-    document.getElementById("profilePic").src = "images/adrian.jpg";
+    document.getElementById("profilePic").src = "images/code.jpg";
   }
 
 
