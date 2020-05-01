@@ -94,11 +94,11 @@ ul {
 .links li {
     display: inline;
     padding: 0;
-    margin: 2 rem;
+    margin: 2rem;
     white-space: nowrap;
     list-style-type: none;
     opacity: 0.2;
-    padding: 1 rem;
+    padding: 1rem;
 }
 
 .links li:hover {
